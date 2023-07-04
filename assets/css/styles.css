@@ -329,7 +329,9 @@ body.light-theme {
 }
 
 .home__img {
-  width: 200px;
+  width: 500px;
+  height: 310px;
+  border-radius: 10rem 10rem 1rem 1rem;
 }
 
 .home__handle {
